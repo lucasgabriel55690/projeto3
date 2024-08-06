@@ -32,28 +32,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Deseja algum acessório?",
+        enunciado: "Deseja ir em algum outro lugar?",
         alternativas: [
             {
-                texto: "sim, obrigado!",
-                afirmacao: "recebeu lacinhos."
+                texto: "sim, no shopping!",
+                afirmacao: "almoçou mac donalds."
             },
             {
-                texto: "não, obrigado!",
-                afirmacao: "voltou sem nenhum acessório."
+                texto: "na casa da mãee!!",
+                afirmacao: "foi recebido com um almoço top."
             }
         ]
     },
     {
-        enunciado: "Ao final do procedimento podemos tirar foto?",
+        enunciado: "agora você prefere ir cortar o cabelo, ou ir descansar?",
         alternativas: [
             {
                 texto: "simm!",
-                afirmacao: "tirou várias fotos."
+                afirmacao: "saiu na régua."
             },
             {
-                texto: "não",
-                afirmacao: "foi embora sem tirar nenhuma foto."
+                texto: "não, quero descansar",
+                afirmacao: "ficou com o cabelo grande,no dia do encontro com a namorada."
             }
         ]    
     }
